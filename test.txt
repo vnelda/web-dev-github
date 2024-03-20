@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 THIS IS MY ANOTHER COMMIT!
+=======
+THIS IS MY again a COMMIT!
+>>>>>>> feature
 
 And here we go with commit #2!
